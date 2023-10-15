@@ -1,2 +1,3 @@
 # csharp-exercises-template
-C# template to practice a do language challenges.
+
+C# template to practice language challenges.
