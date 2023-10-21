@@ -9,7 +9,7 @@ namespace CSharpExercisesTemplate
     public class ExercisesApp
     {
 
-        private int _choice = 0;
+        private int _choice;
         private List<IExercise>? _exercises;
 
         /*
